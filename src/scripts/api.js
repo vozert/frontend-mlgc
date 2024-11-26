@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = "https://cancerpredict-804902132089.asia-southeast2.run.app/";
+const BASE_URL = "";
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
